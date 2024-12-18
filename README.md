@@ -27,12 +27,12 @@
 
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=theerthaNadeeja03&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhura8604&show_icons=true&theme=dark)
 
 ### 🧰 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theerthaNadeeja03&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhura8604&layout=compact&theme=dark)
 
 ### 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=theerthaNadeeja03&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=madhura8604&theme=dark)
 
 
